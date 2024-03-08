@@ -2,8 +2,8 @@
 
 This repo contains docker compose file that is used to host my projects:
 
-- [DokChat](https://dokchat.dokurno.dev)
-- [StockedUp](https://stockedup.dokurno.dev)
+- [DokChat](https://dokchat.dokurno.dev) on port `8080`
+- [StockedUp](https://stockedup.dokurno.dev) on port `8081`
 
 This repo is primarily for managing my personal deployment.
 
